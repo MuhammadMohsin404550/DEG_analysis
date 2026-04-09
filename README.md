@@ -150,6 +150,9 @@ Genes consistently found higher in LUSC include TP63, KRT5, KRT6A, and SOX2 — 
 
 GO enrichment of LUSC-high genes typically shows terms related to cornification, keratinocyte differentiation, and epidermis development. GO enrichment of LUAD-high genes typically shows terms related to surfactant metabolism, glandular epithelium development, and mucus secretion.
 
+Graph:
+<img width="4000" height="3200" alt="volcano_LUSC_vs_LUAD" src="https://github.com/user-attachments/assets/6e75378b-c869-416c-8c75-b99e2c2e9196" />
+
 ---
 
 ## Statistical Notes
