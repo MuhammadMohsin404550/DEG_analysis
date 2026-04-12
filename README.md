@@ -189,6 +189,11 @@ This project is for educational and research purposes. TCGA data is publicly ava
 
 ---
 
+## One thing to remember
+This is can help you to understand basic, and also that the differentail gene expresion analysis pipeline changes based on what you are working. The core statistical engine — whether DESeq2 or edgeR — stays the same, but almost every other decision in the pipeline changes depending on your biological question, your data type, and your experimental context. There is no single universal DGE pipeline. 
+
+---
+
 ## Author
 
 Feel free to open an issue or submit a pull request if you find bugs or want to contribute improvements to the pipeline.
